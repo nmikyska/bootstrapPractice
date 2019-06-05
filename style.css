@@ -1,0 +1,140 @@
+.row{
+  background-color: black;
+}
+.nav{
+  background-color: white;
+  width: 100%;
+  height: 100px;
+}
+.nav-link{
+  padding-top: 2.5em;
+}
+.right-side{
+  position: relative;
+  width: 100%;
+  
+}
+.left-side{
+  position: relative;
+  width: 100%;
+  
+}
+.full-width{
+  position: relative;
+  width: 100%;
+}
+img{
+  width: 100%;
+  height: auto;
+}
+.textTallImg1{
+  color: red;  
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  background-color: rgba(255,255,255,0.8);
+  padding-top: 400px;
+  padding-bottom: 400px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+.textShortImg2{
+  color: red;  
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  background-color: rgba(255,255,255,0.8);
+  padding-top: 150px;
+  padding-bottom: 150px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+.textShortImg3{
+  color: red;  
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  background-color: rgba(255,255,255,0.8);
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.textFullImg4{
+  color: red;  
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  background-color: rgba(255,255,255,0.8);
+  padding-top: 345px;
+  padding-bottom: 345px;
+  padding-left: 600px;
+  padding-right: 600px;
+}
+
+.textShortImg5{
+  color: red;  
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  background-color: rgba(255,255,255,0.8);
+  padding-top: 75px;
+  padding-bottom: 75px;
+  padding-left: 250px;
+  padding-right: 250px;
+}
+.textShortImg6{
+  color: red;  
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  background-color: rgba(255,255,255,0.8);
+  padding-top: 120px;
+  padding-bottom: 120px;
+  padding-left: 250px;
+  padding-right: 250px;
+}
+.textTallImg7{
+  color: red;  
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  background-color: rgba(255,255,255,0.8);
+  padding-top: 330px;
+  padding-bottom: 330px;
+  padding-left: 230px;
+  padding-right: 230px;
+}
+.textFullImg8{
+  color: red;  
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  background-color: rgba(255,255,255,0.8);
+  padding-top: 345px;
+  padding-bottom: 345px;
+  padding-left: 570px;
+  padding-right: 570px;
+}
+button{
+  margin-top: 30px;
+  width: 150px;
+
+}
